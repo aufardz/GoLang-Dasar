@@ -11,6 +11,7 @@ func main() {
 	}
 
 	// var length = len(name)
+
 	//If Short Statements
 	if length := len(name); length > 5 {
 		println("Nama Terlalu Panjang")
